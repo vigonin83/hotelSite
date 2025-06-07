@@ -336,6 +336,7 @@
    background-color: $mainColor;
    width: toRem(50) !important;
    height: toRem(50) !important;
+   margin-top: 0 !important;
 
    &::after {
       font-size: toRem(25) !important;

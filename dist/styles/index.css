@@ -3458,6 +3458,7 @@ input, textarea::placeholder {
   background-color: #FFB600;
   width: 3.125rem !important;
   height: 3.125rem !important;
+  margin-top: 0 !important;
 }
 .swiper-button-prev::after,
 .swiper-button-next::after {
